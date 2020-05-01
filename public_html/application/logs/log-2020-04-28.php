@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-28 19:22:31 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 19:23:04 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 19:52:06 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 19:53:06 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 19:53:08 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 19:53:42 --> 404 Page Not Found: Uploads/homework
+ERROR - 2020-04-28 21:04:20 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:04:22 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:04:25 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:04:28 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:05:39 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:05:41 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:05:44 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:08:35 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:08:37 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:08:41 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:09:33 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:09:34 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:18:04 --> 404 Page Not Found: App_apis/fetch_attendance_based_on_student_id.php
+ERROR - 2020-04-28 21:18:10 --> 404 Page Not Found: App_apis/class_section_list_version_control.php
+ERROR - 2020-04-28 21:18:11 --> 404 Page Not Found: App_apis/student_routine_fetch.php
+ERROR - 2020-04-28 21:18:11 --> 404 Page Not Found: App_apis/fetch_holiday.php
+ERROR - 2020-04-28 21:18:11 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:18:13 --> 404 Page Not Found: App_apis/fetch_attendance_based_on_student_id.php
+ERROR - 2020-04-28 21:18:18 --> 404 Page Not Found: App_apis/articles_for_you.php
+ERROR - 2020-04-28 21:18:19 --> 404 Page Not Found: App_apis/fetch_homework.php
+ERROR - 2020-04-28 21:18:20 --> 404 Page Not Found: App_apis/fetch_syllabus.php
+ERROR - 2020-04-28 21:18:25 --> 404 Page Not Found: App_apis/fetch_result.php
+ERROR - 2020-04-28 21:18:28 --> 404 Page Not Found: App_apis/fetch_homework.php
+ERROR - 2020-04-28 21:18:30 --> 404 Page Not Found: App_apis/fetch_syllabus.php
+ERROR - 2020-04-28 21:18:33 --> 404 Page Not Found: App_apis/fetch_syllabus.php
+ERROR - 2020-04-28 21:53:23 --> 404 Page Not Found: Uploads/news_images
+ERROR - 2020-04-28 21:54:50 --> 404 Page Not Found: Uploads/news_images
+ERROR - 2020-04-28 21:55:02 --> 404 Page Not Found: Uploads/news_images
+ERROR - 2020-04-28 21:55:02 --> 404 Page Not Found: Uploads/news_images
